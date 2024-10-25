@@ -1,4 +1,4 @@
-Playwright: Practice task for Coffee Cart application testing.
+# Playwright: Practice task for Coffee Cart application testing.
 
 Test cases covered:
 - Assert cart cleaned after page refresh
