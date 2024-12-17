@@ -10,8 +10,7 @@ Test:
   6. Assert Cappucion is visible in the cart
   7. Reload the page
   8. Assert Cappucion is not viisble (hidden) in the cart
-  9. Assert Cappucion is visible in the cart
-  10. Assert the message "No coffee, go add some" is visible
+  9. Assert the message "No coffee, go add some" is visible
 
   Tips: 
   1. Use "await page.reload();" to reload the page.

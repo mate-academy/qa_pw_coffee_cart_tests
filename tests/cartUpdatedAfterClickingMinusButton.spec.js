@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('Assert cart updated correcly after clicking minus for drinks', async ({ page }) => {
+test('Assert cart updated correctly after clicking minus for drinks', async ({ page }) => {
   /*
   Test:
     1. Open the Coffee Cart menu page https://coffee-cart.app/
